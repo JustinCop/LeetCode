@@ -1,8 +1,15 @@
-#include "A001_two_sum.h"
+#include "A002_addTwoNumbers.h"
 
 int main()
 {
     Solution s;
-    vector<int> v = { 2, 7, 11, 15 };
-    auto ans = s.twoSum(v, 9);
+
+    int arr1[] = { 9,9,9,9,9,9,9 };
+    Solution::ListNode* l1 = s.CreateListNode(arr1, 7);
+
+    int arr2[] = { 9,9,9,9 };
+    Solution::ListNode *l2 = s.CreateListNode(arr2, 4);
+
+
+    auto ret = s.addTwoNumbers(l1, l2);
 }

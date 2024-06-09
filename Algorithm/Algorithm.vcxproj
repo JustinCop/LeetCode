@@ -130,7 +130,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="A001_two_sum.h" />
+    <ClInclude Include="A001_twoSum.h" />
+    <ClInclude Include="A002_addTwoNumbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
