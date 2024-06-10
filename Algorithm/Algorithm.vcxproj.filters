@@ -26,5 +26,8 @@
     <ClInclude Include="A002_addTwoNumbers.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="A003_lengthOfLongestSubstring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

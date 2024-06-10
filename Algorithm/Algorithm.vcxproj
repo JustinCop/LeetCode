@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="A001_twoSum.h" />
     <ClInclude Include="A002_addTwoNumbers.h" />
+    <ClInclude Include="A003_lengthOfLongestSubstring.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
