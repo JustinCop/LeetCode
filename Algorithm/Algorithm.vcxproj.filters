@@ -20,13 +20,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="A001_twoSum.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="A002_addTwoNumbers.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="A003_lengthOfLongestSubstring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A001_twoSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A004_findMedianSortedArrays.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
