@@ -1,6 +1,7 @@
 //#include "A002_addTwoNumbers.h"
 //#include "A003_lengthOfLongestSubstring.h"
-#include "A004_findMedianSortedArrays.h"
+//#include "A004_findMedianSortedArrays.h"
+#include "A005_longestPalindrome.h"
 
 int main()
 {
@@ -15,10 +16,7 @@ int main()
     //int arr2[] = { 9,9,9,9 };
     //Solution::ListNode *l2 = s.CreateListNode(arr2, 4);
 
-
     //auto ret = s.addTwoNumbers(l1, l2);
-
-
 
 
 
@@ -34,10 +32,17 @@ int main()
     //////////////////////////////////
     // 4. Find median sorted arrays
     //////////////////////////////////
+    //Solution s;
+    //vector<int> v1 = { 1,2 };
+    //vector<int> v2 = { 3,4 };
+    //auto ans = s.findMedianSortedArrays(v1, v2);
+
+
+
+    //////////////////////////////////
+    // 5 Longest Palindrome
+    //////////////////////////////////
     Solution s;
-    vector<int> v1 = { 1,2 };
-    vector<int> v2 = { 3,4 };
-    auto ans = s.findMedianSortedArrays(v1, v2);
-
-
+    auto ans = s.longestPalindrome("aaaa");
+    
 }
