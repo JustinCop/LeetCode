@@ -1,7 +1,8 @@
 //#include "A002_addTwoNumbers.h"
 //#include "A003_lengthOfLongestSubstring.h"
 //#include "A004_findMedianSortedArrays.h"
-#include "A005_longestPalindrome.h"
+//#include "A005_longestPalindrome.h"
+#include "A006_zConvert.h"
 
 int main()
 {
@@ -42,7 +43,15 @@ int main()
     //////////////////////////////////
     // 5 Longest Palindrome
     //////////////////////////////////
+    //Solution s;
+    //auto ans = s.longestPalindrome("aaaa");
+
+
+
+    //////////////////////////////////
+    // 6 Z Convert
+    //////////////////////////////////
     Solution s;
-    auto ans = s.longestPalindrome("aaaa");
-    
+    string ans = s.convert("AB", 1);
+
 }

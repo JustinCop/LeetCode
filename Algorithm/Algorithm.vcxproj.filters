@@ -35,5 +35,8 @@
     <ClInclude Include="A005_longestPalindrome.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="A006_zConvert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
