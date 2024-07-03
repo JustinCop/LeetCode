@@ -130,6 +130,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="A0007_reverseInteger.h" />
     <ClInclude Include="A001_twoSum.h" />
     <ClInclude Include="A002_addTwoNumbers.h" />
     <ClInclude Include="A003_lengthOfLongestSubstring.h" />

@@ -2,7 +2,8 @@
 //#include "A003_lengthOfLongestSubstring.h"
 //#include "A004_findMedianSortedArrays.h"
 //#include "A005_longestPalindrome.h"
-#include "A006_zConvert.h"
+//#include "A006_zConvert.h"
+#include "A0007_reverseInteger.h"
 
 int main()
 {
@@ -51,7 +52,14 @@ int main()
     //////////////////////////////////
     // 6 Z Convert
     //////////////////////////////////
+    //Solution s;
+    //string ans = s.convert("AB", 1);
+
+
+    //////////////////////////////////
+    // 7 reverse Integer
+    //////////////////////////////////
     Solution s;
-    string ans = s.convert("AB", 1);
+    int ans = s.reverse(1534236469);
 
 }
