@@ -20,25 +20,28 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="A002_addTwoNumbers.h">
+    <ClInclude Include="A002_Add_Two_Numbers.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="A003_lengthOfLongestSubstring.h">
+    <ClInclude Include="A003_Longest_Substring_Without_Repeating_Characters.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="A001_twoSum.h">
+    <ClInclude Include="A001_Two_Sum.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="A004_findMedianSortedArrays.h">
+    <ClInclude Include="A004_Median_of_Two_Sorted_Arrays.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="A005_longestPalindrome.h">
+    <ClInclude Include="A005_Longest-Palindromic_Substring.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="A006_zConvert.h">
+    <ClInclude Include="A006_Zigzag_Conversion.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="A0007_reverseInteger.h">
+    <ClInclude Include="A007_Reverse_Integer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="A008_String_to_Integer_atoi.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

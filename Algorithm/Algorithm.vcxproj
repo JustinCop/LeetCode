@@ -130,13 +130,14 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="A0007_reverseInteger.h" />
-    <ClInclude Include="A001_twoSum.h" />
-    <ClInclude Include="A002_addTwoNumbers.h" />
-    <ClInclude Include="A003_lengthOfLongestSubstring.h" />
-    <ClInclude Include="A004_findMedianSortedArrays.h" />
-    <ClInclude Include="A005_longestPalindrome.h" />
-    <ClInclude Include="A006_zConvert.h" />
+    <ClInclude Include="A007_Reverse_Integer.h" />
+    <ClInclude Include="A001_Two_Sum.h" />
+    <ClInclude Include="A002_Add_Two_Numbers.h" />
+    <ClInclude Include="A003_Longest_Substring_Without_Repeating_Characters.h" />
+    <ClInclude Include="A004_Median_of_Two_Sorted_Arrays.h" />
+    <ClInclude Include="A005_Longest-Palindromic_Substring.h" />
+    <ClInclude Include="A006_Zigzag_Conversion.h" />
+    <ClInclude Include="A008_String_to_Integer_atoi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

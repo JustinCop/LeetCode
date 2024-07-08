@@ -1,14 +1,9 @@
-//#include "A002_addTwoNumbers.h"
-//#include "A003_lengthOfLongestSubstring.h"
-//#include "A004_findMedianSortedArrays.h"
-//#include "A005_longestPalindrome.h"
-//#include "A006_zConvert.h"
-#include "A0007_reverseInteger.h"
+#include "A008_String_to_Integer_atoi.h"
 
 int main()
 {
     ////////////////////////////
-    // 2. two sum
+    // 2. Add Two Numbers
     ////////////////////////////
     //Solution s;
 
@@ -23,7 +18,7 @@ int main()
 
 
     //////////////////////////////////
-    // 3. length Of Longest Substring
+    // 3. Longest Substring Without Repeating Characters
     //////////////////////////////////
     //Solution s;
 
@@ -32,7 +27,7 @@ int main()
 
 
     //////////////////////////////////
-    // 4. Find median sorted arrays
+    // 4. Median of Two Sorted Arrays
     //////////////////////////////////
     //Solution s;
     //vector<int> v1 = { 1,2 };
@@ -42,7 +37,7 @@ int main()
 
 
     //////////////////////////////////
-    // 5 Longest Palindrome
+    // 5. Longest Palindromic Substring
     //////////////////////////////////
     //Solution s;
     //auto ans = s.longestPalindrome("aaaa");
@@ -50,16 +45,22 @@ int main()
 
 
     //////////////////////////////////
-    // 6 Z Convert
+    // 6. Zigzag Conversion
     //////////////////////////////////
     //Solution s;
     //string ans = s.convert("AB", 1);
 
 
     //////////////////////////////////
-    // 7 reverse Integer
+    // 7. Reverse Integer
     //////////////////////////////////
-    Solution s;
-    int ans = s.reverse(1534236469);
+    //Solution s;
+    //int ans = s.reverse(1534236469);
 
+
+    ///////////////////////////////////
+    // 8. String to Integer (atoi)
+    ///////////////////////////////////
+    Solution s;
+    int ans = s.myAtoi("-91283472332");
 }
